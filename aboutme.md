@@ -4,6 +4,8 @@ title: About Me
 ---
 
 ### Employment History
+- **2019-present:** Consultant (Embedded Systems) at [TTP plc](https://www.ttp.com/), working on schematic and PCB design, as well as firmware development in bare metal C and C++ with RTOS. I work within the Life Science/Biopharma group, focusing on laboratory instrumentation for the life sciences.
+
 - **2018:** 3 month internship at [Samsung Cambridge Solution Centre](https://www.samsungscsc-careers.com/), developing WiFi chip firmware, unit tests \([Unity](http://www.throwtheswitch.org/unity)\) and debugging tools \(all in C\).
 
 - **2017:** 10 week internship at TT Electronics within Transportation, Sensing and Control division \(now [AB Elektronik](https://www.abelektronik.com/
@@ -16,5 +18,5 @@ title: About Me
 - **2012:** Two week work experience placement at [Sperry Marine](http://www.sperrymarine.com/) radar \(Northrop Grumman\), where I was involved in repairing and testing computers returned from the field and writing reports on tested units.  
 
 ### Education
-- **2015 -- present:** M.Eng. and B.A. degrees in Electrical and Information Sciences (Electronic Engineering) from Cambridge University. 2.1/1<sup>st</sup> grades achieved in Years 1 &ndash; 3
+- **2015 -- 2019:** M.Eng. and B.A. degrees in Electrical and Information Sciences (Electronic Engineering) from Cambridge University.
 - **2008 -- 2015:** Sutton Grammar School for Boys (4 A* grades at A-level).

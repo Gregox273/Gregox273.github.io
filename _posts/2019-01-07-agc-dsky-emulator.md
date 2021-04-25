@@ -29,9 +29,8 @@ The firmware is built upon the vast body of work done by the [VirtualAGC project
 
 ***Note: This project would not have been possible without the work of Ron Burkey and everyone else involved with the VirtualAGC project (and of course the people who designed the original at the Charles Stark Draper Laboratory and NASA). Take a look at their work here: [www.ibiblio.org/apollo/index.html](https://www.ibiblio.org/apollo/index.html)***
 
-Todo list:
+Areas to improve:
 - Use a faster processor or optimise the code. Unfortunately, the STM32F072RBT6 appears to be too slow to run the emulator in real time. For example, when viewing the 'mission' time, the second counter increments at less than one second per second.
-- Use DFU to communicate with LEDs, rather than pausing the emulator.
+- Use DMA (e.g. DMA SPI) to write to the LEDs, rather than pausing the emulator.
 - Include option to feed IMU data into the emulator.
-- Communicate with a spaceflight simulator such as [NASSP](http://nassp.sourceforge.net/wiki/Main_Page) over USB. The end result of this would be to use the handheld emulator to land on the moon...
-
+- Connect to a spaceflight simulator such as [NASSP](http://nassp.sourceforge.net/wiki/Main_Page) over USB. This would allow the device to take part in a landing simulation...

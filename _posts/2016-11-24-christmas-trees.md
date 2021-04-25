@@ -11,4 +11,3 @@ This project was inspired by [Adam Greig's *yuletronics* project](https://github
 *[GitHub repo](github.com/Gregox273/yuletronics)*
 
 ![Christmas trees](/img/xmas_trees.jpg)
-*When your university won't let you start a real log fire in your room...*
