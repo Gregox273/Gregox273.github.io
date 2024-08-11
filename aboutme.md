@@ -4,7 +4,9 @@ title: About Me
 ---
 
 ### Employment History
-- **2019-present:** Consultant (Embedded Systems) at [TTP plc](https://www.ttp.com/), working on schematic and PCB design, as well as firmware development in bare metal C and C++ with RTOS. I work within the Life Science/Biopharma group, focusing on laboratory instrumentation for the life sciences.
+- **2022-present** Medical Software Consultant, IEC 62304 compliant embedded and full-stack software development on a wide range of client projects.
+- **2021-2022:** Senior Embedded Software Engineer, taking on a range of responsibilities including hardware prototype design and development, and development of applications to run on Signaloid's uncertainty-tracking computation platform.
+- **2019-2021:** Consultant (Embedded Systems) at [TTP plc](https://www.ttp.com/), working on schematic and PCB design, as well as firmware development in bare metal C and C++ with RTOS. I work within the Life Science/Biopharma group, focusing on laboratory instrumentation for the life sciences.
 
 - **2018:** 3 month internship at [Samsung Cambridge Solution Centre](https://www.samsungscsc-careers.com/), developing WiFi chip firmware, unit tests \([Unity](http://www.throwtheswitch.org/unity)\) and debugging tools \(all in C\).
 
