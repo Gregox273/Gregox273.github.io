@@ -4,7 +4,9 @@ title: About Me
 ---
 
 ### Employment History
-- **2022-present** Medical Software Consultant, IEC 62304 compliant embedded and full-stack software development on a wide range of client projects.
+- **2025-present** Senior Firmware Engineer at SuperSharp Space Systems Ltd.
+
+- **2022-2025** Medical Software Consultant, IEC 62304 compliant embedded and full-stack software development on a wide range of client projects.
 
 - **2021-2022:** Senior Embedded Software Engineer, taking on a range of responsibilities including hardware prototype design and development, and development of applications to run on Signaloid's uncertainty-tracking computation platform.
 
